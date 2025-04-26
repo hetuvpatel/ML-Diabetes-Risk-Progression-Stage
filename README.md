@@ -32,7 +32,7 @@ Using **K-Means** and **Hierarchical Clustering**, the study uncovers patterns a
 | Visualization | Description |
 |:--------------|:------------|
 | ![Heatmap](heatmap1.png) | Correlation heatmap showing relationships between health features. |
-| ![Pair Plot](]pairplot.png) | Pair-wise feature comparison highlighting clustering tendencies. |
+| ![Pair Plot](pairplot.png) | Pair-wise feature comparison highlighting clustering tendencies. |
 | ![K-Means Clusters](kmeans1.png) | Scatter plot (By stages) colored by K-Means risk groups. |
 | ![K-Means Clusters](kmeans2.png) | Scatter plot (By risks) colored by K-Means risk groups. |
 | ![Radar Chart](radar.png) | Comparison of feature averages across Low, Medium, and High risk clusters. |
