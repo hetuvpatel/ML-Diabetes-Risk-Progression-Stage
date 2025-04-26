@@ -1,7 +1,16 @@
 # 🧠 Clustering Analysis of Diabetes Risk and Progression in Pima Indian Females
 
-📄 **Course Project:** CPS803 - Machine Learning  
-📚 **Student:** Hetu Virajkumar Patel | Student ID: 501215707
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Tech-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Clustering-KMeans%20&%20Hierarchical-1abc9c?style=for-the-badge" alt="Clustering" />
+  <img src="https://img.shields.io/badge/Data%20Scaling-MinMaxScaler-009688?style=for-the-badge" alt="MinMaxScaler" />
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-ff69b4?style=for-the-badge&logo=plotly" alt="Visualization" />
+  <img src="https://img.shields.io/badge/Dataset-Pima%20Indian%20Diabetes-blueviolet?style=for-the-badge" alt="Pima Indian Diabetes Dataset" />
+  <img src="https://img.shields.io/badge/Field-Healthcare%20Analytics-orange?style=for-the-badge" alt="Healthcare Analytics" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Completed Project" />
+</p>
+
 
 ---
 
