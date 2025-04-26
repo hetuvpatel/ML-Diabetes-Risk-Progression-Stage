@@ -31,12 +31,12 @@ Using **K-Means** and **Hierarchical Clustering**, the study uncovers patterns a
 
 | Visualization | Description |
 |:--------------|:------------|
-| ![Heatmap](Images/heatmap1.png) | Correlation heatmap showing relationships between health features. |
-| ![Pair Plot](Images/pairplot.png) | Pair-wise feature comparison highlighting clustering tendencies. |
-| ![K-Means Clusters](Images/kmeans1.png) | Scatter plot (By stages) colored by K-Means risk groups. |
-| ![K-Means Clusters](Images/kmeans2.png) | Scatter plot (By risks) colored by K-Means risk groups. |
-| ![Radar Chart](Images/radar.png) | Comparison of feature averages across Low, Medium, and High risk clusters. |
-| ![Agglomerative Clusters](Images/agglomerativ-clustering.png) |Agglomerative Clustering to showcase Risk Groups |
+| ![Heatmap](heatmap1.png) | Correlation heatmap showing relationships between health features. |
+| ![Pair Plot](]pairplot.png) | Pair-wise feature comparison highlighting clustering tendencies. |
+| ![K-Means Clusters](kmeans1.png) | Scatter plot (By stages) colored by K-Means risk groups. |
+| ![K-Means Clusters](kmeans2.png) | Scatter plot (By risks) colored by K-Means risk groups. |
+| ![Radar Chart](radar.png) | Comparison of feature averages across Low, Medium, and High risk clusters. |
+| ![Agglomerative Clusters](agglomerativ-clustering.png) |Agglomerative Clustering to showcase Risk Groups |
 
 *(📸 Replace `Images/xxx.png` with your actual screenshots if you have different paths!)*
 
